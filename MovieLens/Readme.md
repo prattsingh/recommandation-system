@@ -1,4 +1,4 @@
-To run the application one need to use the below given RData file:
+To run the Report(.Rmd) one need to use the below given RData file:
 https://drive.google.com/file/d/1NN15rsdCcTU_0IuuBLWff0AteHIqOV2-/view?usp=sharing
 
 Steps:
